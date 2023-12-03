@@ -4,7 +4,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <div className="flex flex-col min-h-full">
-      {/* <div className="relative flex items-center h-full w-full bg-center bg-no-repeat bg-cover" style={{ backgroundImage: 'url("/bgdimmed.jpg")' }}> */}
+      <div className="relative flex items-center h-full w-full bg-center bg-no-repeat bg-cover" style={{ backgroundImage: 'url("/bgdimmed.jpg")' }}>
         <div className="flex flex-col h-screen w-full justify-between">
           <div className="sm:flex flex-col bg-white w-full border border-b-gray-300 shadow-lg navbar order-1 py-2 text-sm">
             <nav className="flex-row">
@@ -43,7 +43,7 @@ export default function Home() {
             </div>
           </div>
         </div>
-      {/* </div> */}
+      </div>
 
       <div className="flex-row order-5 py-5 text-white bg-blue-900 text-center w-full">
         HELLO
