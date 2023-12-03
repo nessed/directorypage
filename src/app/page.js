@@ -1,6 +1,4 @@
-// Import required libraries
 import Image from 'next/image';
-import FadeIn from 'react-fade-in/lib/FadeIn';
 
 // Define your component
 export default function Home() {
