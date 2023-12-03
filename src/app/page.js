@@ -31,7 +31,7 @@ export default function Home() {
           </div>
 
           <div className="flex flex-col">
-            <div className="absolute top-[135px] left-10 sm:py-10 p-8 lg:text-6xl text-2xl text-center py-bg- text-white font-thin text-justify  bg-opacity-50 bg-blue-800">
+            <div className="absolute top-[135px] left-10 sm:py-10 p-8 lg:text-6xl text-2xl text-center py-bg- text-white font-thin font-bold lg:text-justify  bg-opacity-50 bg-blue-800">
               Pakistans First Directory on<span className="lg:block"> Construction & Allied Industries</span>
             </div>
 
